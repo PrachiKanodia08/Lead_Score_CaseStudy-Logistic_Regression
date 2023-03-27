@@ -12,8 +12,6 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 
 There are some more problems presented by the company which your model should be able to adjust to if the company's requirement changes in the future so you will need to handle these as well. These problems are provided in a separate questions pdf file.
 
+# Dataset 
+'Lead.csv' dataset has been provided from the past with around 9000 data points along with a data dictionary. The dataset consists of various attributes including the target variable, in this case, is the column ‘Converted’ wherein 1 means it was converted and 0 means it wasn’t converted.
 
-
-
-
-**Note** : More files are yet to be uploaded
